@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeminiWorkshop</string>
+
+    <string name="textonly_title">Text Only Example</string>
+    <string name="text_and_image_title">Text &amp; Image Example</string>
+    <string name="chat_title">Chat Example</string>
+
+    <string name="send_to_ai_button_text">Send query to AI</string>
+    <string name="add_images">Add image</string>
+    <string name="copy_text">Copy to clipboard</string>
+    <string name="text_copied_text">Copied to clipboard</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="clear_form">Clear form</string>
+    <string name="send">Send</string>
+</resources>
