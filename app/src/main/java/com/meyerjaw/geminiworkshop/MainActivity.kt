@@ -11,7 +11,6 @@ import com.meyerjaw.geminiworkshop.textimageexample.TextImageViewModel
 import com.meyerjaw.geminiworkshop.ui.theme.GeminiApplicationTheme
 
 class MainActivity : ComponentActivity() {
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         val textOnlyViewModel: TextOnlyViewModel by viewModels()
